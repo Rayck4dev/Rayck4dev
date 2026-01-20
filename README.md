@@ -9,7 +9,7 @@
 - 🚀 Full-stack developer in training, focused on creating intuitive and functional interfaces.
 - 🌱 Currently improving my skills in **React, TailwindCSS, Supabase and API REST**  
 - ✨ Passionate about transforming ideas into real projects and evolving through practice.
-- 📫 Contact me: **messacastrotto@gmail.com**  
+- 📫 Contact me: **rayckadevweb@gmail.com**  
 - 😄 Pronouns: She/Her  
 - 👩‍💻 More projects coming soon…
 
@@ -52,7 +52,7 @@
 - 🚀 Desenvolvedora Full-Stack em formação, focada em criar interfaces intuitivas e funcionais.
 - 🌱 Atualmente aprimorando minhas habilidades em **React, TailwindCSS, Supabase e API REST**  
 - ✨ Apaixonada por transformar ideias em projetos reais e evoluir através da prática.
-- 📫 Contato: **messacastrotto@gmail.com**  
+- 📫 Contato: **rayckadevweb@gmail.com**  
 - 😄 Pronomes: Ela/Dela  
 - 👩‍💻 Mais projetos em breve…
 
