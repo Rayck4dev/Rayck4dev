@@ -37,19 +37,9 @@
 
 ## 📬 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raycka-messa-de-castro-408264327/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/raycka_dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://portfoliorayckacastro.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raycka-messa-de-castro-408264327/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayck_dev)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliorayckacastro.netlify.app)
 
 ---
 
@@ -88,16 +78,6 @@
 
 ## 📬 Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raycka-messa-de-castro-408264327/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/raycka_dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://portfoliorayckacastro.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raycka-messa-de-castro-408264327/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rayck_dev)
+[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliorayckacastro.netlify.app)
