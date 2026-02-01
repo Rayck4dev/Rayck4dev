@@ -29,7 +29,6 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=canva" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 
@@ -70,7 +69,6 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=canva" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 
