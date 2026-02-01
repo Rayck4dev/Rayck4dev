@@ -21,17 +21,17 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=canva" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 
 </p>
 
@@ -62,17 +62,17 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=canva" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 
 </p>
 
