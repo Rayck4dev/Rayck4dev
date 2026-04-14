@@ -24,7 +24,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=expo" width="40"/></a>
+<a href="https://expo.dev/"><img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 </p>
 
@@ -95,7 +95,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=expo" width="40"/></a>
+<a href="https://expo.dev/"><img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
 </p>
 
