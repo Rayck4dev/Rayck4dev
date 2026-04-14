@@ -15,23 +15,54 @@
 
 ## 🛠️ Technologies & Tools
 
+## 🎨 Frontend
 <p align="left">
-
 <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=expo" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
+</p>
+
+---
+
+## ⚙️ Backend
+<p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=codeigniter" width="40"/></a>
+</p>
 
+---
+
+## 🗄️ Databases
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+</p>
+
+---
+
+## 🚀 Deploy & Infra
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
+</p>
+
+---
+
+## 🛠️ Tools & Others
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
 </p>
 
 ## 📬 Connect with me
@@ -55,23 +86,54 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+## 🎨 Frontend
 <p align="left">
-
 <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=expo" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
+</p>
+
+---
+
+## ⚙️ Backend
+<p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=codeigniter" width="40"/></a>
+</p>
 
+---
+
+## 🗄️ Banco de Dados
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+</p>
+
+---
+
+## 🚀 Deploy & Infra
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
+</p>
+
+---
+
+## 🛠️ Ferramentas & Outros
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
 </p>
 
 ## 📬 Conecte-se comigo
