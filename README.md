@@ -13,57 +13,40 @@
 - 😄 Pronouns: She/Her  
 - 👩‍💻 More projects coming soon…
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 ## 🎨 Frontend
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="https://expo.dev/"><img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-</p>
+| HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind | Vite | React Native / Expo |
+|------|-----|------------|------------|-------|---------|----------|------|---------------------|
+| <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=typescript" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=vite" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/> |
 
 ---
 
 ## ⚙️ Backend
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=codeigniter" width="40"/></a>
-</p>
+| Node.js | PHP | Python | Java | Supabase | CodeIgniter 4 |
+|---------|-----|--------|------|----------|---------------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/> |
 
 ---
 
 ## 🗄️ Databases
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
-</p>
+| MySQL | PostgreSQL |
+|-------|------------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> |
 
 ---
 
 ## 🚀 Deploy & Infra
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-</p>
+| Vercel | Netlify |
+|--------|---------|
+| <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=netlify" width="40"/> |
 
 ---
 
 ## 🛠️ Tools & Others
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
-</p>
+| Git | WordPress | Figma |
+|-----|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
 
 ## 📬 Connect with me
 
@@ -84,57 +67,41 @@
 - 😄 Pronomes: Ela/Dela  
 - 👩‍💻 Mais projetos em breve…
 
-## 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
 ## 🎨 Frontend
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-<a href="https://expo.dev/"><img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-</p>
+| HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind | Vite | React Native / Expo |
+|------|-----|------------|------------|-------|---------|----------|------|---------------------|
+| <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=typescript" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=vite" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/> |
 
 ---
 
 ## ⚙️ Backend
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=codeigniter" width="40"/></a>
-</p>
+| Node.js | PHP | Python | Java | Supabase | CodeIgniter 4 |
+|---------|-----|--------|------|----------|---------------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/> |
 
 ---
 
 ## 🗄️ Banco de Dados
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
-</p>
+| MySQL | PostgreSQL |
+|-------|------------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> |
 
 ---
 
 ## 🚀 Deploy & Infra
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
-</p>
+| Vercel | Netlify |
+|--------|---------|
+| <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=netlify" width="40"/> |
 
 ---
 
 ## 🛠️ Ferramentas & Outros
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
-</p>
+| Git | WordPress | Figma |
+|-----|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+
 
 ## 📬 Conecte-se comigo
 
