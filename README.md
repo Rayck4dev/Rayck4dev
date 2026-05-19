@@ -28,6 +28,12 @@
 | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/> |
 
 ---
+## 🛢️ Data Engineering & Infrastructure
+| Apache Hop | Docker |
+|------------|--------|
+| <img src="https://hop.apache.org/img/hop-logo.svg" width="40" alt="Apache Hop"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> |
+
+---
 
 ## 🗄️ Databases
 | MySQL | PostgreSQL |
@@ -36,7 +42,7 @@
 
 ---
 
-## 🚀 Deploy & Infra
+## 🚀 Deploy 
 | Vercel | Netlify |
 |--------|---------|
 | <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=netlify" width="40"/> |
@@ -82,6 +88,12 @@
 | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40"/> |
 
 ---
+## 🛢️ Engenharia de Dados e Infraestrutura
+| Apache Hop | Docker |
+|------------|--------|
+| <img src="https://hop.apache.org/img/hop-logo.svg" width="40" alt="Apache Hop"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> |
+
+---
 
 ## 🗄️ Banco de Dados
 | MySQL | PostgreSQL |
@@ -90,18 +102,17 @@
 
 ---
 
-## 🚀 Deploy & Infra
+## 🚀 Deploy 
 | Vercel | Netlify |
 |--------|---------|
 | <img src="https://skillicons.dev/icons?i=vercel" width="40"/> | <img src="https://skillicons.dev/icons?i=netlify" width="40"/> |
 
 ---
 
-## 🛠️ Ferramentas & Outros
+## 🛠️ Ferramentas & outros
 | Git | WordPress | Figma |
 |-----|-----------|-------|
 | <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
-
 
 ## 📬 Conecte-se comigo
 
